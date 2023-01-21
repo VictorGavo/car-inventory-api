@@ -22,6 +22,7 @@ marshmallow==3.19.0
 marshmallow-sqlalchemy==0.28.1
 packaging==23.0
 psycopg2-binary==2.9.5
+python-dotenv==0.21.1
 six==1.16.0
 SQLAlchemy==1.4.46
 Werkzeug==2.2.2
